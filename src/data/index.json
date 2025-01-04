@@ -1,0 +1,53 @@
+{
+    "skills" : [
+        {
+            "id" : "1", 
+            "src" : "./img/tag-1.png", 
+            "title" : "Front-End", 
+            "description" : "Created a piano project using HTML, CSS, and JavaScript, enhancing my CSS knowledge—have fun while playing it!"
+        },
+        {
+            "id" : "2", 
+            "src" : "./img/product-chain-1.png", 
+            "title" : "Front-End", 
+            "description" : "Created a to-do list project using HTML, CSS, and JavaScript—save your to-dos here and finish the tasks!"
+        },
+        {
+            "id" : "3", 
+            "src" : "./img/feather-pen-2.png", 
+            "title" : "Java Project", 
+            "description" : "Developed a Tic-Tac-Toe game in Java, gaining solid knowledge and experience in the language."
+        },
+        {
+            "id" : "4", 
+            "src" : "./img/feather-pen-1.png", 
+            "title" : "Competitive Programming", 
+            "description" : "2-star @ CodeChef and mastering Data Structures and Algorithms (DSA)."
+        }
+    ],
+    "portfolio" : [
+        {
+            "id" : "1", 
+            "src" : "./img/piano2.png",
+            "title" : "Front-End", 
+            "description" : "Created a piano project using HTML, CSS, and JavaScript, enhancing my CSS knowledge—have fun while playing it!",
+            "link" : "View In GitHub"
+
+        },
+        {
+            "id" : "2", 
+            "src" : "./img/img3.png", 
+            "title" : "Front-End", 
+            "description" : "Created a to-do list project using HTML, CSS, and JavaScript—save your to-dos here and finish the tasks!",
+             "link" : "View In GitHub"
+        },
+        {
+            "id" : "3", 
+            "src" : "./img/tictac.png", 
+            "title" : "Java Project", 
+            "description" : "Developed a Tic-Tac-Toe game in Java, gaining solid knowledge and experience in the language.",
+             "link" : "View In GitHub"
+        }
+         
+    ]
+}
